@@ -1,1 +1,1 @@
-Attached you will find the SQL cleaning and Power Bi Dashboard (Cristiano_Messi)
+Attached you will find the SQL (SQL modificartions) cleaning and Power Bi Dashboard (Cristiano_Messi)
